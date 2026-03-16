@@ -1,0 +1,17 @@
+### Create `requirements.txt` file**
+
+groq
+langchain
+langchain-groq
+langchain-community
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+python-multipart
+pydantic
+gtts
+pydub
+pandas
+numpy
+python-dotenv

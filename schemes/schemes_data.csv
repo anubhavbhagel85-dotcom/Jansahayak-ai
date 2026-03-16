@@ -1,0 +1,171 @@
+scheme_name,ministry,category,eligibility_age_min,eligibility_age_max,eligibility_income_max,eligibility_caste,eligibility_state,benefits,how_to_apply,portal_link
+PM-KISAN Samman Nidhi,Agriculture,Agriculture,18,99,0,All,All,Rs 6000/year direct cash,Apply at local Patwari or pmkisan.gov.in,https://pmkisan.gov.in
+PM Awas Yojana Gramin,Rural Development,Housing,18,99,300000,All,All,Free house construction,Apply via village Panchayat,https://pmayg.nic.in
+Ujjwala Yojana 2.0,Petroleum,Energy,18,99,200000,BPL,All,Free LPG connection,Apply at nearest LPG distributor,https://pmuy.gov.in
+Ayushman Bharat PM-JAY,Health,Health,0,99,200000,All,All,Rs 5 lakh health insurance/year,Apply at empanelled hospital,https://pmjay.gov.in
+PM Scholarship Scheme,Defence,Education,18,25,600000,All,All,Rs 25000/year scholarship,Apply at scholarships.gov.in,https://scholarships.gov.in
+PM Mudra Yojana,Finance,Business,18,65,0,All,All,Loans up to Rs 10 lakh,Apply at any bank or NBFC,https://mudra.org.in
+National Scholarship Portal,Education,Education,0,25,250000,SC/ST/OBC,All,Multiple scholarships available,Apply at scholarships.gov.in,https://scholarships.gov.in
+Sukanya Samriddhi Yojana,Finance,Finance,0,10,0,All,All,Savings account + tax benefits,Open at Post Office or bank,https://nsiindia.gov.in
+PM Jan Dhan Yojana,Finance,Banking,10,99,0,All,All,Free bank account + insurance,Apply at any bank branch,https://pmjdy.gov.in
+Atal Pension Yojana,Finance,Pension,18,40,0,All,All,Rs 1000-5000/month pension,Apply at bank or post office,https://npscra.nsdl.co.in
+Kisan Credit Card,Agriculture,Agriculture,18,75,0,All,All,Credit for farming needs,Apply at bank with land docs,https://pmkisan.gov.in
+PM Fasal Bima Yojana,Agriculture,Insurance,18,99,0,All,All,Crop insurance against disasters,Apply via bank or insurance co,https://pmfby.gov.in
+MGNREGA,Rural Development,Employment,18,99,0,All,All,100 days guaranteed work/year,Apply at Gram Panchayat,https://nrega.nic.in
+Startup India,Commerce,Business,18,99,0,All,All,Tax benefits + funding support,Register at startupindia.gov.in,https://startupindia.gov.in
+Stand Up India,Finance,Business,18,99,0,SC/ST/Women,All,Loans Rs 10 lakh to 1 crore,Apply at bank branch,https://standupmitra.in
+PM Garib Kalyan Anna Yojana,Food,Food,0,99,150000,BPL,All,5 kg free grain per person/month,Register at ration shop,https://dfpd.gov.in
+Skill India Mission,Skill Development,Education,15,45,0,All,All,Free skill training + certificate,Register at skillindia.gov.in,https://skillindia.gov.in
+PM SVANidhi,Housing,Business,18,99,0,All,All,Rs 10000-50000 loan for vendors,Apply at ULB office or CSC,https://pmsvanidhi.mohua.gov.in
+Beti Bachao Beti Padhao,Women & Child,Women,0,18,0,All,All,Girl child education support,Apply at Anganwadi centre,https://wcd.nic.in
+Pradhan Mantri Matru Vandana,Women & Child,Women,19,99,0,All,All,Rs 5000 maternity benefit,Apply at Anganwadi or health centre,https://pmmvy.wcd.gov.in
+National Social Assistance,Rural Development,Pension,60,99,200000,BPL,All,Rs 200-500/month old age pension,Apply at Gram Panchayat,https://nsap.nic.in
+Deen Dayal Upadhyaya Grameen,Rural Development,Employment,15,35,150000,All,All,Rural youth skill + placement,Apply at block office,https://aajeevika.gov.in
+PM Kaushal Vikas Yojana,Skill Development,Education,15,45,0,All,All,Free training + Rs 8000 reward,Register at pmkvyofficial.org,https://pmkvyofficial.org
+Antyodaya Anna Yojana,Food,Food,0,99,100000,BPL,All,35 kg grain at Rs 2-3/kg,Apply at ration shop with BPL card,https://dfpd.gov.in
+eShram Portal,Labour,Labour,16,59,0,All,All,Rs 2 lakh accident insurance,Register at eshram.gov.in,https://eshram.gov.in
+Pradhan Mantri Jeevan Jyoti Bima,Finance,Insurance,18,50,0,All,All,Rs 2 lakh life insurance at Rs 436/year,Apply at bank branch,https://jansuraksha.gov.in
+Pradhan Mantri Suraksha Bima,Finance,Insurance,18,70,0,All,All,Rs 2 lakh accident insurance at Rs 20/year,Apply at bank branch,https://jansuraksha.gov.in
+Pradhan Mantri Vaya Vandana,Finance,Pension,60,99,0,All,All,Guaranteed 7.4% pension for seniors,Apply at LIC office,https://licindia.in
+Deen Dayal Antyodaya Yojana Urban,Housing,Employment,18,99,0,BPL,All,Urban poor skill training + self employment,Apply at ULB office,https://ddugjy.gov.in
+PM Ujjwala Yojana,Petroleum,Energy,18,99,150000,BPL Women,All,Free LPG cylinder + stove,Apply at LPG distributor,https://pmuy.gov.in
+Swachh Bharat Mission Urban,Housing,Sanitation,0,99,0,All,All,Free toilet construction subsidy,Apply at municipal office,https://swachhbharatmission.gov.in
+Swachh Bharat Mission Gramin,Rural Development,Sanitation,0,99,0,All,Rural,Free household toilet construction,Apply at Gram Panchayat,https://sbmg.nic.in
+PMEGP Scheme,MSME,Business,18,99,0,All,All,Subsidy on loans for new enterprises,Apply at KVIC/DIC office,https://www.kviconline.gov.in
+PM Vishwakarma Yojana,MSME,Business,18,99,0,All,All,Rs 3 lakh loan + skill training for artisans,Apply at CSC centre,https://pmvishwakarma.gov.in
+Aajeevika Rural Livelihood,Rural Development,Employment,18,99,150000,All,All,Self help group formation + livelihood support,Apply at block office,https://aajeevika.gov.in
+National Rural Livelihood Mission,Rural Development,Employment,18,60,150000,Women,All,Microfinance + skill training for rural women,Apply at Gram Panchayat,https://nrlm.gov.in
+PM Annadata Aay Sanrakshan,Agriculture,Agriculture,18,99,0,All,All,MSP based price support for farmers,Apply at state agriculture dept,https://farmer.gov.in
+Soil Health Card Scheme,Agriculture,Agriculture,18,99,0,All,All,Free soil testing + crop advice card,Apply at agriculture dept,https://soilhealth.dac.gov.in
+National Horticulture Mission,Agriculture,Agriculture,18,99,0,All,All,Subsidy for fruit vegetable cultivation,Apply at horticulture dept,https://nhb.gov.in
+Micro Irrigation Fund,Agriculture,Agriculture,18,99,0,All,All,Subsidised drip and sprinkler irrigation,Apply at agriculture dept,https://pmksy.gov.in
+PM Krishi Sinchai Yojana,Agriculture,Agriculture,18,99,0,All,All,Irrigation infrastructure + water efficiency,Apply at state agriculture dept,https://pmksy.gov.in
+Paramparagat Krishi Vikas,Agriculture,Agriculture,18,99,0,All,All,Rs 50000/hectare for organic farming,Apply at agriculture dept,https://pgsindia-ncof.gov.in
+Rashtriya Krishi Vikas Yojana,Agriculture,Agriculture,18,99,0,All,All,Grants for agriculture infrastructure,Apply at state agriculture dept,https://rkvy.nic.in
+Agricultural Infrastructure Fund,Agriculture,Agriculture,18,99,0,All,All,Rs 1 crore loan at 3% interest subsidy,Apply at bank,https://agriinfra.dac.gov.in
+Fisherman Credit Card,Agriculture,Fisheries,18,65,0,All,All,Credit up to Rs 2 lakh for fishermen,Apply at bank with documents,https://dof.gov.in
+PM Matsya Sampada Yojana,Agriculture,Fisheries,18,99,0,All,All,Rs 20750 crore for fisheries development,Apply at fisheries dept,https://pmmsy.dof.gov.in
+National Livestock Mission,Agriculture,Animal Husbandry,18,99,0,All,All,Subsidy for livestock rearing + insurance,Apply at animal husbandry dept,https://nlm.udyamimitra.in
+Kisan Vikas Patra,Finance,Finance,18,99,0,All,All,Double investment in 115 months,Buy at post office or bank,https://indiapost.gov.in
+Public Provident Fund,Finance,Finance,18,99,0,All,All,Tax free savings with 7.1% interest,Open at post office or bank,https://nsiindia.gov.in
+Senior Citizen Savings Scheme,Finance,Finance,60,99,0,All,All,8.2% interest for senior savings,Apply at post office or bank,https://nsiindia.gov.in
+National Savings Certificate,Finance,Finance,18,99,0,All,All,6.8% interest + tax benefit under 80C,Buy at post office,https://nsiindia.gov.in
+Post Office Monthly Income Scheme,Finance,Finance,18,99,0,All,All,7.4% monthly interest on deposits,Open at post office,https://indiapost.gov.in
+Recurring Deposit Post Office,Finance,Finance,18,99,0,All,All,6.7% interest on monthly deposits,Open at post office,https://indiapost.gov.in
+PM Street Vendor Loan,Finance,Business,18,99,0,All,All,Working capital loan up to Rs 50000,Apply at ULB or CSC,https://pmsvanidhi.mohua.gov.in
+Credit Guarantee Fund MSME,MSME,Business,18,99,0,All,All,Collateral free loans up to Rs 2 crore,Apply at bank,https://cgtmse.in
+MUDRA Shishu Loan,Finance,Business,18,65,0,All,All,Loan up to Rs 50000 for micro business,Apply at bank or MFI,https://mudra.org.in
+MUDRA Kishor Loan,Finance,Business,18,65,0,All,All,Loan Rs 50000 to 5 lakh for small business,Apply at bank,https://mudra.org.in
+MUDRA Tarun Loan,Finance,Business,18,65,0,All,All,Loan Rs 5 lakh to 10 lakh for business,Apply at bank,https://mudra.org.in
+Startup India Seed Fund,Commerce,Business,21,99,0,All,All,Up to Rs 20 lakh seed funding for startups,Apply at startupindia.gov.in,https://startupindia.gov.in
+Atal Innovation Mission,Science,Business,15,99,0,All,All,Innovation support + incubation funding,Apply at aim.gov.in,https://aim.gov.in
+Digital India Programme,IT,Technology,18,99,0,All,All,Digital literacy + internet access support,Register at digitalindia.gov.in,https://digitalindia.gov.in
+PM Gramin Digital Saksharta,IT,Education,14,60,0,All,Rural,Free digital literacy training,Apply at CSC centre,https://pmgdisha.in
+BharatNet Project,IT,Technology,0,99,0,All,Rural,Free broadband in gram panchayats,Contact gram panchayat,https://bbnl.nic.in
+Common Service Centres,IT,Technology,18,99,0,All,All,Government services at village level,Visit nearest CSC,https://csc.gov.in
+Ayushman Bharat Digital Mission,Health,Health,0,99,0,All,All,Free digital health ID + health records,Register at healthid.ndhm.gov.in,https://abdm.gov.in
+Janaushadhi Scheme,Health,Health,0,99,0,All,All,Generic medicines at 50-90% less price,Buy at Janaushadhi store,https://janaushadhi.gov.in
+National Health Mission,Health,Health,0,99,200000,All,All,Free healthcare at public health centres,Visit nearest PHC,https://nhm.gov.in
+Rashtriya Bal Swasthya Karyakram,Health,Health,0,18,0,All,All,Free health screening for children,Visit school or anganwadi,https://nhm.gov.in
+Indradhanush Vaccination,Health,Health,0,2,0,All,All,Free vaccination for 12 diseases,Visit nearest health centre,https://nhm.gov.in
+Poshan Abhiyaan,Women & Child,Health,0,6,0,All,All,Nutrition support for children + mothers,Visit Anganwadi centre,https://poshanabhiyaan.gov.in
+Integrated Child Development,Women & Child,Health,0,6,0,All,All,Free nutrition health education for children,Visit Anganwadi centre,https://wcd.nic.in
+Janani Suraksha Yojana,Health,Health,19,99,0,All,All,Cash incentive for institutional delivery,Apply at health centre,https://nhm.gov.in
+Pradhan Mantri Surakshit Matritva,Health,Health,19,99,0,All,All,Free antenatal checkup on 9th of every month,Visit government health facility,https://pmsma.nhp.gov.in
+National Mental Health Programme,Health,Health,0,99,0,All,All,Free mental health services at district level,Visit district hospital,https://nimhans.ac.in
+Rashtriya Arogya Nidhi,Health,Health,0,99,0,BPL,All,Financial assistance for critical illness,Apply at government hospital,https://mohfw.gov.in
+Central Government Health Scheme,Health,Health,0,99,0,Government employees,All,Healthcare for central govt employees families,Apply at CGHS office,https://cghs.gov.in
+Ex Servicemen Contributory Health,Defence,Health,0,99,0,Ex-servicemen,All,Healthcare for defence veterans + families,Apply at ECHS office,https://echs.gov.in
+Samagra Shiksha Abhiyan,Education,Education,6,18,0,All,All,Holistic school education support,Enroll at government school,https://samagra.education.gov.in
+Mid Day Meal Scheme,Education,Education,6,14,0,All,All,Free nutritious meal in government schools,Automatically covered in school,https://mdm.nic.in
+PM POSHAN Scheme,Education,Education,3,14,0,All,All,Nutritious food for school and anganwadi children,Visit school or anganwadi,https://pmposhan.education.gov.in
+National Means Cum Merit Scholarship,Education,Education,13,18,250000,All,All,Rs 12000/year scholarship for class 9-12,Apply at scholarships.gov.in,https://scholarships.gov.in
+Pre Matric Scholarship SC Students,Education,Education,9,14,250000,SC,All,Scholarship for SC students class 9-10,Apply at scholarships.gov.in,https://scholarships.gov.in
+Post Matric Scholarship SC Students,Education,Education,14,25,250000,SC,All,Full tuition fee + maintenance for SC students,Apply at scholarships.gov.in,https://scholarships.gov.in
+Pre Matric Scholarship ST Students,Education,Education,9,14,250000,ST,All,Scholarship for ST students class 9-10,Apply at scholarships.gov.in,https://scholarships.gov.in
+Post Matric Scholarship ST Students,Education,Education,14,25,250000,ST,All,Full fee + maintenance allowance for ST students,Apply at scholarships.gov.in,https://scholarships.gov.in
+Pre Matric Scholarship OBC Students,Education,Education,9,14,150000,OBC,All,Scholarship for OBC students class 1-10,Apply at scholarships.gov.in,https://scholarships.gov.in
+Post Matric Scholarship OBC Students,Education,Education,14,25,150000,OBC,All,Tuition + maintenance for OBC students,Apply at scholarships.gov.in,https://scholarships.gov.in
+Minority Pre Matric Scholarship,Education,Education,9,14,100000,Minority,All,Rs 10000/year for minority students,Apply at scholarships.gov.in,https://scholarships.gov.in
+Minority Post Matric Scholarship,Education,Education,14,25,200000,Minority,All,Rs 20000/year for minority college students,Apply at scholarships.gov.in,https://scholarships.gov.in
+Merit Cum Means Minority Scholarship,Education,Education,18,30,250000,Minority,All,Rs 30000/year for professional courses,Apply at scholarships.gov.in,https://scholarships.gov.in
+Ishan Uday NE Region Scholarship,Education,Education,18,30,450000,All,Northeast,Rs 54000/year for NE students in college,Apply at ugc.ac.in,https://scholarships.gov.in
+Pragati Scholarship Girls Technical,Education,Education,18,30,800000,All,All,Rs 50000/year for girls in technical education,Apply at aicte-india.org,https://scholarships.gov.in
+Saksham Scholarship Disabled,Education,Education,18,30,800000,All,All,Rs 50000/year for differently abled students,Apply at aicte-india.org,https://scholarships.gov.in
+Central Sector Scholarship,Education,Education,18,25,450000,All,All,Rs 20000/year for top college students,Apply at scholarships.gov.in,https://scholarships.gov.in
+Swanath Scholarship Orphans,Education,Education,18,25,0,All,All,Rs 50000/year for orphan students,Apply at aicte-india.org,https://scholarships.gov.in
+PM Research Fellowship,Education,Education,21,35,0,All,All,Rs 70000-80000/month for PhD research,Apply at pmrf.in,https://pmrf.in
+National Fellowship SC Students,Education,Education,21,35,0,SC,All,Rs 31000/month JRF for SC PhD students,Apply at ugc.ac.in,https://ugc.ac.in
+Rajiv Gandhi National Fellowship ST,Education,Education,21,35,0,ST,All,Rs 31000/month JRF for ST PhD students,Apply at ugc.ac.in,https://ugc.ac.in
+Maulana Azad Fellowship Minority,Education,Education,21,35,0,Minority,All,Rs 31000/month fellowship for minority PhD,Apply at minorityaffairs.gov.in,https://minorityaffairs.gov.in
+PM Awas Yojana Urban,Housing,Housing,18,99,1800000,All,Urban,Interest subsidy on home loan up to Rs 2.67 lakh,Apply at bank or housing finance,https://pmaymis.gov.in
+Pradhan Mantri Gramin Awas Plus,Rural Development,Housing,18,99,0,BPL,Rural,Upgraded house assistance Rs 1.2-1.3 lakh,Apply at Gram Panchayat,https://pmayg.nic.in
+Housing for All EWS,Housing,Housing,18,99,300000,EWS,Urban,6.5% interest subsidy on home loan,Apply at bank,https://pmaymis.gov.in
+Housing for All LIG,Housing,Housing,18,99,600000,LIG,Urban,6.5% interest subsidy for LIG home loan,Apply at bank,https://pmaymis.gov.in
+PM Awas Yojana MIG,Housing,Housing,18,99,1800000,MIG,Urban,4% interest subsidy on home loan,Apply at bank,https://pmaymis.gov.in
+National Urban Livelihood Mission,Housing,Employment,18,60,0,Urban poor,Urban,Self employment + skill training for urban poor,Apply at ULB,https://nulm.gov.in
+Swamitva Scheme,Rural Development,Land,18,99,0,All,Rural,Property rights card for rural households,Contact Gram Panchayat,https://svamitva.nic.in
+PM Gati Shakti,Commerce,Infrastructure,18,99,0,All,All,Integrated infrastructure development support,Contact relevant ministry,https://gatishaktiportal.gov.in
+Bharatmala Project,Road Transport,Infrastructure,18,99,0,All,All,Highway development + employment generation,Contact NHAI,https://bharatmala.gov.in
+Sagarmala Project,Shipping,Infrastructure,18,99,0,All,Coastal,Port development + coastal community livelihood,Contact shipping ministry,https://sagarmala.gov.in
+UDAN Scheme,Civil Aviation,Transport,0,99,0,All,All,Affordable air travel at Rs 2500 per hour,Book at airline websites,https://www.aai.aero/udan
+Smart Cities Mission,Housing,Infrastructure,0,99,0,All,Urban,Smart infrastructure in 100 cities,Contact municipal corporation,https://smartcities.gov.in
+AMRUT Mission,Housing,Infrastructure,0,99,0,All,Urban,Water supply sewage green spaces in cities,Contact municipal office,https://amrut.gov.in
+Jal Jeevan Mission,Jal Shakti,Water,0,99,0,All,Rural,Tap water connection to every rural household,Contact gram panchayat,https://jaljeevanmission.gov.in
+National Jal Mission,Jal Shakti,Water,0,99,0,All,All,Water conservation + watershed management,Contact district office,https://jalshakti-dowr.gov.in
+PM KUSUM Scheme,Agriculture,Energy,18,99,0,All,All,Solar pump subsidy 60% for farmers,Apply at state energy dept,https://mnre.gov.in
+Rooftop Solar Scheme,New Energy,Energy,18,99,0,All,All,Subsidy for rooftop solar installation,Apply at state electricity board,https://solarrooftop.gov.in
+PM Surya Ghar Muft Bijli,New Energy,Energy,18,99,0,All,All,300 units free electricity via rooftop solar,Apply at pmsuryaghar.gov.in,https://pmsuryaghar.gov.in
+National Solar Mission,New Energy,Energy,18,99,0,All,All,Subsidised solar energy solutions,Apply at MNRE,https://mnre.gov.in
+Pradhan Mantri Sahaj Bijli,Power,Energy,18,99,0,BPL,All,Free electricity connection to BPL homes,Apply at electricity department,https://saubhagya.gov.in
+DDUGJY Rural Electrification,Power,Energy,0,99,0,All,Rural,Rural household electrification,Contact electricity dept,https://ddugjy.gov.in
+PM Employment Generation Programme,MSME,Employment,18,45,0,All,All,Subsidy up to 35% on new enterprise loans,Apply at KVIC DIC,https://www.kviconline.gov.in
+Deendayal Disabled Rehabilitation,Social Justice,Disability,0,99,0,Disabled,All,NGO grants for disabled rehabilitation,Apply at social welfare dept,https://disabilityaffairs.gov.in
+Assistance to Disabled Persons,Social Justice,Disability,0,99,0,Disabled,All,Free aids appliances for disabled persons,Apply at district social welfare,https://disabilityaffairs.gov.in
+Unique Disability ID,Social Justice,Disability,0,99,0,Disabled,All,Universal disability certificate + card,Apply at swavlambancard.gov.in,https://swavlambancard.gov.in
+National Trust Scheme Disabled,Social Justice,Disability,0,99,0,PwD,All,Legal guardianship + caregiver support,Apply at nationaltrust.gov.in,https://nationaltrust.gov.in
+Scholarship for Disabled Students,Education,Disability,5,25,250000,Disabled,All,Rs 16000/year for differently abled students,Apply at scholarships.gov.in,https://scholarships.gov.in
+PM Adarsh Gram Yojana SC,Social Justice,Rural,0,99,0,SC majority villages,All,Integrated development of SC majority villages,Apply at district collector office,https://pmagy.gov.in
+Dr Ambedkar Foundation Schemes,Social Justice,SC/ST,18,99,0,SC/ST,All,Education housing health support for SC ST,Apply at ambedkarfoundation.nic.in,https://ambedkarfoundation.nic.in
+Babu Jagjivan Ram Schemes,Social Justice,SC/ST,18,99,0,SC/ST,All,Hostel + coaching for SC ST students,Apply at district welfare office,https://socialjustice.gov.in
+National Overseas Scholarship SC ST,Education,SC/ST,25,35,600000,SC/ST,All,Full scholarship for foreign education,Apply at socialjustice.gov.in,https://socialjustice.gov.in
+Free Coaching SC OBC Students,Education,SC/ST,18,30,200000,SC/OBC,All,Free coaching for competitive exams,Apply at socialjustice.gov.in,https://socialjustice.gov.in
+Hostels for SC Girls,Education,SC/ST,6,18,0,SC,All,Free hostel accommodation for SC girl students,Apply at social welfare dept,https://socialjustice.gov.in
+Eklavya Model Residential Schools,Education,ST,6,18,0,ST,Tribal areas,Free residential school for ST children,Apply at tribal welfare dept,https://tribal.nic.in
+Van Dhan Vikas Kendras,Tribal,ST,18,99,0,ST,Tribal areas,Minor forest produce processing + marketing,Apply at TRIFED,https://trifed.in
+PM Van Dhan Yojana,Tribal,ST,18,99,0,ST,Tribal,Tribal entrepreneur clusters + skill training,Contact TRIFED,https://trifed.in
+Tribal Sub Plan,Tribal,ST,0,99,0,ST,Tribal areas,Special fund allocation for tribal development,Contact tribal welfare dept,https://tribal.nic.in
+Grants for Tribal Research Institutes,Tribal,ST,21,99,0,ST,All,Research grants on tribal issues,Apply at tribal research institute,https://tribal.nic.in
+National Fellowship ST Students,Education,ST,21,35,0,ST,All,Rs 31000/month for ST PhD students,Apply at ugc.ac.in,https://ugc.ac.in
+Nai Roshni Minority Women,Minority,Women,18,65,0,Minority Women,All,Leadership development for minority women,Apply at minorityaffairs.gov.in,https://minorityaffairs.gov.in
+Seekho Aur Kamao Minority,Minority,Education,14,45,0,Minority,All,Skill development for minority youth,Apply at minorityaffairs.gov.in,https://minorityaffairs.gov.in
+Hamari Dharohar Minority,Minority,Culture,18,99,0,Minority,All,Preservation of minority cultural heritage,Apply at minorityaffairs.gov.in,https://minorityaffairs.gov.in
+Pradhan Mantri Jan Vikas,Minority,Infrastructure,0,99,0,Minority,All,Infrastructure in minority concentrated areas,Contact minority affairs ministry,https://minorityaffairs.gov.in
+Waqf Board Development Scheme,Minority,Infrastructure,0,99,0,Muslim,All,Development of waqf properties,Apply at state waqf board,https://waqfboard.nic.in
+One Stop Centre Women,Women & Child,Women,0,99,0,Women,All,Integrated support for women in distress,Call helpline 181,https://wcd.nic.in
+Mahila Shakti Kendra,Women & Child,Women,18,99,0,Women,Rural,Community support hub for rural women,Visit block level centre,https://wcd.nic.in
+Ujjawala Anti Trafficking,Women & Child,Women,0,99,0,Women,All,Prevention + rescue from trafficking,Apply at social welfare dept,https://wcd.nic.in
+Swadhar Greh Women Shelter,Women & Child,Women,18,99,0,Women in distress,All,Shelter + rehabilitation for women in crisis,Contact social welfare dept,https://wcd.nic.in
+Working Women Hostel,Women & Child,Women,18,45,0,Working women,All,Safe affordable hostel for working women,Apply at district social welfare,https://wcd.nic.in
+Mahila E Haat,Women & Child,Women,18,99,0,Women entrepreneurs,All,Online marketing platform for women products,Register at mahilaehaat.gov.in,https://mahilaehaat.gov.in
+Rashtriya Mahila Kosh,Women & Child,Women,18,60,0,Women,All,Micro credit for poor women,Apply at RMK office,https://rmk.nic.in
+STEP Scheme Women,Women & Child,Women,18,99,0,Women,All,Training + employment for marginalised women,Apply at social welfare dept,https://wcd.nic.in
+Pradhan Mantri Bal Poshan,Women & Child,Health,0,6,0,All,All,Supplementary nutrition for children under 6,Visit Anganwadi centre,https://wcd.nic.in
+Anganwadi Services Scheme,Women & Child,Health,0,6,0,All,All,Nutrition health education for young children,Visit local Anganwadi,https://wcd.nic.in
+PMMVY Maternity Benefit,Women & Child,Women,19,99,0,All,All,Rs 6000 cash for first child maternity,Apply at health centre,https://pmmvy.wcd.gov.in
+Kishori Shakti Yojana,Women & Child,Women,11,18,0,All,All,Nutrition health life skills for adolescent girls,Visit Anganwadi centre,https://wcd.nic.in
+Rajiv Gandhi Scheme Adolescent Girls,Women & Child,Women,11,18,0,BPL,All,Nutrition IFA supplementation for girls,Visit Anganwadi,https://wcd.nic.in
+Nirbhaya Fund Projects,Women & Child,Women,0,99,0,Women,All,Women safety infrastructure + helplines,Contact police or WCD,https://wcd.nic.in
+E Shishu Mobile App Child Health,Health,Health,0,6,0,All,All,Digital health tracking for children,Download e-Shishu app,https://nhm.gov.in
+Bal Swasthya Poshan Mah,Health,Health,0,5,0,All,All,Monthly child health nutrition camps,Visit nearest health centre,https://nhm.gov.in
+National Child Labour Project,Labour,Child,5,14,0,All,All,Rehabilitation of child labourers through schools,Contact district collector,https://labour.gov.in
+Integrated Child Protection Scheme,Women & Child,Child,0,18,0,All,All,Protection support for children in need,Contact child welfare committee,https://wcd.nic.in
+PM Garib Kalyan Rozgar,Rural Development,Employment,18,60,0,Migrant workers,All,125 days work for return migrant workers,Apply at gram panchayat,https://rural.nic.in
+National Career Service Portal,Labour,Employment,18,60,0,All,All,Free job matching + career guidance,Register at ncs.gov.in,https://ncs.gov.in
+Apprenticeship Scheme,Labour,Employment,14,21,0,All,All,Monthly stipend while learning a trade,Register at apprenticeshipindia.gov.in,https://apprenticeshipindia.gov.in
+National Apprenticeship Promotion,Labour,Employment,14,21,0,All,All,Rs 1500/month stipend support to apprentices,Register at apprenticeshipindia.gov.in,https://apprenticeshipindia.gov.in
+PM Rojgar Protsahan Yojana,Labour,Employment,18,35,0,All,All,Employer EPF contribution paid by govt 3 years,Register at shramsuvidha.gov.in,https://pmrpy.gov.in
+Employees Provident Fund,Labour,Finance,18,58,0,Formal employees,All,12% employer PF contribution + interest,Auto enrolled by employer,https://epfindia.gov.in
+Employees State Insurance,Labour,Health,18,58,0,Formal employees,All,Medical + disability insurance for workers,Auto enrolled by employer,https://esic.nic.in
+Unorganised Worker Social Security,Labour,Insurance,14,60,0,Unorganised workers,All,Life disability health pension benefits,Apply at labour office,https://labour.gov.in
+Building Construction Worker Welfare,Labour,Labour,18,60,0,Construction workers,All,Health education housing benefits for workers,Apply at state labour boa,
