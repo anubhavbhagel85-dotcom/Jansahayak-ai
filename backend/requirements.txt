@@ -8,7 +8,4 @@ pydub
 pandas
 numpy
 python-dotenv
-requests
-httpx
-openai
 beautifulsoup4
