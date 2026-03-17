@@ -37,7 +37,7 @@ def create_agent():
         MessagesPlaceholder(variable_name="agent_scratchpad"),
     ])
 
-    agent = create_tool_calling_agent(
+    agent = create_openai_tools_agent(
         llm=llm,
         tools=[scheme_search_tool],
         prompt=prompt
