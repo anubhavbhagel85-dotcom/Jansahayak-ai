@@ -1,11 +1,4 @@
-### Create `requirements.txt` file**
-
 groq
-langchain
-langchain-groq
-langchain-community
-chromadb
-sentence-transformers
 fastapi
 uvicorn
 python-multipart
