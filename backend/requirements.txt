@@ -15,10 +15,7 @@ pydub
 pandas
 numpy
 python-dotenv
-<<<<<<< HEAD
 beautifulsoup4
-=======
 requests
 httpx
 openai
->>>>>>> fce43d8bdb03a5d2514c1581c2d7e87fecfaac1c
