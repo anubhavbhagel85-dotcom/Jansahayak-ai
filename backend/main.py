@@ -12,10 +12,22 @@ from fastapi.middleware.cors import CORSMiddleware
 from agent.jansahayak_agent import create_agent
 from voice.stt import transcribe_audio
 from voice.tts import text_to_speech
+from contextlib import asynccontextmanager
 
 load_dotenv()
 
-app = FastAPI(title="JanSahayak AI")
+@asynccontextmanager
+async def lifespan(app):
+    # Auto-scrape schemes when server starts
+    try:
+        from schemes.scraper import update_schemes_database
+        update_schemes_database()
+        print("Schemes auto-updated on startup")
+    except Exception as e:
+        print(f"Auto-scrape failed (using existing data): {e}")
+    yield
+
+app = FastAPI(title="JanSahayak AI", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
@@ -78,3 +90,15 @@ async def chat_voice(
             "transcribed": "Error",
             "response": f"Error: {str(e)}"
         }
+@app.post("/whatsapp/webhook")
+async def whatsapp_webhook(request: Request):
+    data = await request.form()
+    user_message = data.get("Body", "")
+    phone = data.get("From", "")
+    
+    # Use phone number as session ID
+    session_id = phone.replace("whatsapp:", "")
+    response = run_agent(user_message, session_id)
+    
+    # Send back via Twilio WhatsApp
+    return {"message": response}

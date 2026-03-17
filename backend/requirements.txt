@@ -15,3 +15,4 @@ pydub
 pandas
 numpy
 python-dotenv
+beautifulsoup4
