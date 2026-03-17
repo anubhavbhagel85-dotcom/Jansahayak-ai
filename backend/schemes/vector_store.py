@@ -13,10 +13,9 @@ collection = None
 
 def load_schemes():
     global collection
-    BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    df = pd.read_csv(os.path.join(BASE_DIR, 'schemes', 'schemes_data.csv'))
+    csv_path = os.path.join(os.path.dirname(__file__), 'schemes_data.csv')
+    df = pd.read_csv(csv_path)
     collection = client.get_or_create_collection('schemes')
-    
     for _, row in df.iterrows():
         text = f"{row['scheme_name']} {row['category']} {row['benefits']}"
         emb = model.encode(text).tolist()
@@ -29,11 +28,23 @@ def load_schemes():
     print(f'Loaded {len(df)} schemes into ChromaDB')
 
 
+def reload_schemes():
+    """Called after scraper updates the CSV"""
+    global collection
+    collection = None
+    try:
+        client.delete_collection('schemes')
+    except Exception:
+        pass
+    load_schemes()
+
+
 def query_schemes(query: str, n_results: int = 5):
     if collection is None:
         load_schemes()
-        
     emb = model.encode(query).tolist()
-    results = collection.query(query_embeddings=[emb], n_results=n_results)
+    results = collection.query(
+        query_embeddings=[emb],
+        n_results=n_results
+    )
     return results['metadatas'][0]
-
