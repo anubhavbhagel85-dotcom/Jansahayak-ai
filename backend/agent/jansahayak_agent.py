@@ -3,9 +3,6 @@ import warnings
 warnings.filterwarnings("ignore")
 
 from dotenv import load_dotenv
-from langchain_groq import ChatGroq
-from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from langchain_core.messages import HumanMessage, AIMessage
 from groq import Groq as GroqClient
 
 load_dotenv()
@@ -22,10 +19,7 @@ def create_agent():
 
 def run_agent(user_input: str, session_id: str = "default") -> str:
     history = get_history(session_id)
-
     client = GroqClient(api_key=os.getenv("GROQ_API_KEY"))
-
-    from schemes.vector_store import query_schemes
 
     system_prompt = """You are JanSahayak AI - a helpful welfare assistant for Indian citizens.
 Your job: help users find government welfare schemes they qualify for.
@@ -36,8 +30,8 @@ RULES:
 2. Ask ONE question at a time to collect:
    age, monthly income, state, caste (General/OBC/SC/ST),
    gender, education level, occupation, family size.
-3. Once you have enough info, search for schemes using the available data.
-4. Explain each scheme in simple plain language.
+3. Once you have collected enough information, present matching schemes.
+4. Explain each scheme in simple plain language - no jargon.
 5. Give step-by-step application guidance when asked.
 6. Be warm, patient and encouraging."""
 
@@ -46,21 +40,30 @@ RULES:
     for msg in history:
         messages.append(msg)
 
-    messages.append({"role": "user", "content": user_input})
-
-    if any(word in user_input.lower() for word in
-           ["scheme", "yojana", "benefit", "eligib", "qualify",
+    enriched_input = user_input
+    try:
+        from schemes.vector_store import query_schemes
+        search_keywords = [
+            "scheme", "yojana", "benefit", "eligib", "qualify",
             "farmer", "kisan", "student", "health", "house", "loan",
-            "scholarship", "pension", "income", "age", "caste"]):
-        try:
+            "scholarship", "pension", "income", "age", "caste",
+            "help", "government", "sarkari", "योजना", "किसान", "सरकार"
+        ]
+        if any(word in user_input.lower() for word in search_keywords):
             results = query_schemes(user_input)
             if results:
-                scheme_info = "\n\nRelevant schemes found:\n"
+                scheme_info = "\n\n[Relevant schemes found:]\n"
                 for r in results[:3]:
-                    scheme_info += f"- {r.get('scheme_name', '')}: {r.get('benefits', '')} | Apply: {r.get('portal_link', '')}\n"
-                messages[-1]["content"] = user_input + scheme_info
-        except Exception:
-            pass
+                    scheme_info += (
+                        f"- {r.get('scheme_name', '')}: "
+                        f"{r.get('benefits', '')} | "
+                        f"Apply: {r.get('portal_link', '')}\n"
+                    )
+                enriched_input = user_input + scheme_info
+    except Exception:
+        pass
+
+    messages.append({"role": "user", "content": enriched_input})
 
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
